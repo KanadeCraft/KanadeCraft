@@ -1,5 +1,17 @@
-## Hi there 👋
+# Hi, I'm Kanade 👋
 
+I’m currently learning C# and Unity, building small games and tools.
+
+## 🔧 Skills (Learning)
+- C#
+- Unity
+
+## 🎯 Goals
+- Build small games
+- Improve step by step
+
+## 📌 Projects
+- Coming soon...
 <!--
 **KanadeCraft/KanadeCraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
